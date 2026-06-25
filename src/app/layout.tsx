@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'MindSpace | Enterprise Mindmap Builder',
+  title: 'MindVault',
   description: 'Secure, client-side only mindmap generation tool.',
 };
 
