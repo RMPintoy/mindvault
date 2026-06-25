@@ -1,9 +1,9 @@
 # README.md
 
-# MindSpace: Enterprise Mindmap Architecture
+# MindVault: Enterprise Mindmap Architecture
 
 ## Project Overview
-MindSpace is a secure, client-side-only mindmap generation tool. It leverages React Flow for canvas management and Zustand for state. By processing data strictly on the client and relying on local JSON exports, the application bypasses the need for a database, achieving a zero-data-retention security posture.
+MindVault is a secure, client-side-only mindmap generation tool. It leverages React Flow for canvas management and Zustand for state. By processing data strictly on the client and relying on local JSON exports, the application bypasses the need for a database, achieving a zero-data-retention security posture.
 
 ## Architecture Summary
 - **Framework:** Next.js 14 (App Router)
