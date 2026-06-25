@@ -24,7 +24,7 @@ export default function Header() {
     <header className="flex items-center justify-between px-6 py-4 bg-surface border-b border-border shadow-sm absolute top-0 left-0 right-0 z-10">
       <div className="flex items-center space-x-2 text-primary">
         <BrainCircuit size={24} />
-        <h1 className="font-semibold text-lg tracking-tight">MindSpace</h1>
+        <h1 className="font-semibold text-lg tracking-tight">MindVault</h1>
       </div>
       
       <div className="flex items-center space-x-3">
